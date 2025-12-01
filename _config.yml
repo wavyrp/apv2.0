@@ -1,7 +1,5 @@
 title: Nova Roleplay APV
-description:  Nova Roleplay APV 
-                icon = "https://media.discordapp.net/attachments/1431917700988538900/1444720458753638602/d20cdb14-ed85-4dc3-9fc1-a21bc58ba422.png?ex=692f0dc6&is=692dbc46&hm=3dadeda1f22faae0396c459f0a4e1660ddafc1178998d861a7d37139f1afbc29&=&format=webp&quality=lossless",
-                
+description:  Nova Roleplay APV       
 # Development server config, needed to load some of the content
 webrick:
   headers:
